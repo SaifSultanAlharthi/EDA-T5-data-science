@@ -24,3 +24,4 @@ The data base about all players in soccer the data base includes 17,954 rows, 92
 2-Numpy
 
 3-matplotlib
+# Communication
